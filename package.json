@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-sass",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Sass plugin for Metalsmith.",
   "main": "lib/index.js",
   "scripts": {
@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "node-sass": "^1.2.0"
+    "node-sass": "^2.0.0-beta"
   }
 }
